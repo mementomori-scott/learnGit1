@@ -1,0 +1,8 @@
+# Rope project setting
+.rope[project
+
+# mkdocs mdocumentation
+/site
+
+#mypy
+.mypy_cache/
